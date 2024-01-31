@@ -3,11 +3,11 @@ import React from "react";
 
 const contentStyle = {
   textAlign: "center",
-  minHeight: "calc(100vh -60px)",
+  minHeight: "calc(100vh - 60px)",
   lineHeight: "120px",
   color: "#fff",
   backgroundColor: "#001529",
-  padding: "1rem"
+  padding: "1rem",
 };
 
 const AppContent = () => {
